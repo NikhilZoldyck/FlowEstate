@@ -10,6 +10,9 @@ Web3 property marketplace: mint real estate as NFTs, list for sale, and trade on
 
 The Flow Property NFT Marketplace is a comprehensive web3 application that revolutionizes real estate trading by tokenizing properties as Non-Fungible Tokens (NFTs) on the Flow blockchain. This platform enables property owners to mint their real estate as digital assets and create a liquid marketplace for property trading.
 
+Flowscan link for smart contract on testnet: https://evm-testnet.flowscan.io/address/0xAC66beabBD0101BF29E459D210BeeC4fd110c0Fe
+Flowscan lint for NFT minting transaction: https://evm-testnet.flowscan.io/tx/0xed328046f0037a8b14303c65045f12a624bae710809b480b28ffdb58e50bb45e
+
 ### Key Features
 
 - *🏡 Property Tokenization*: Convert real estate properties into NFTs with detailed metadata including address, description, square footage, and pricing
